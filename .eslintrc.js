@@ -19,6 +19,7 @@ module.exports = {
     'no-restricted-syntax': 'off',
     'vuejs-accessibility/click-events-have-key-events': 'off',
     'vuejs-accessibility/label-has-for': 'off',
+    'linebreak-style': ['error', 'unix'],
   },
   overrides: [
     {
